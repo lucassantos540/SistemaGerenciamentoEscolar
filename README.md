@@ -15,4 +15,4 @@ Este projeto final é um sistema de gerenciamento escolar para gestão de profes
 
 ## Importante!
 
-- Necessário adicionar o "JCalendar" nas **libraries** do projeto que está dentro da pasta.
+- Necessário adicionar o "JCalendar" nas **libraries** do projeto que está dentro da pasta do projeto.
