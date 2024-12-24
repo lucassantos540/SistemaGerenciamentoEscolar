@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento Escolar
 
-Este projeto final é um sistema de gerenciamento escolar para adicionar informações de professores, alunos, notas, medias, disciplinas, etc, desenvolvido em Java, utilizando o Apache NetBeans 17 com JFrameForm.
+Este projeto final é um sistema de gerenciamento escolar para gestão de professores, alunos, notas, medias, disciplinas, etc, desenvolvido em Java, utilizando o Apache NetBeans 17 com JFrameForm.
 
 <div align="center">
   <img src="https://github.com/lucassantos540/SistemaGerenciamentoEscolar/blob/main/previewAdmin.png?raw=true" alt="SistemaDeGerenciamentoEscolar" width="415px">
